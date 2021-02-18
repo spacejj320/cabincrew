@@ -1,0 +1,55 @@
+/*
+ Theme Name:   Frankfinn
+ Theme URI:    
+ Description:  Twenty Fifteen Child Theme
+ Author:       sonu
+ Author URI:   
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+div.wpcf7-spam-blocked {
+    border: 2px solid #ffa500;
+    color: #FF9800;
+}
+.gm-style-iw.gm-style-iw-c{
+    display:block !important;
+}
+div.fn-accordion.jbs {
+    margin-top: 35px;
+}
+.card-header.jb {
+    background-color: #f7f7f7 !important;
+    border-bottom: none;
+    margin-bottom: 10px;
+}
+.job-dis {
+    width: 100%;
+    padding: 5px 0px;
+    display: block;
+    float: left;
+}
+.apply-now-frm span.fn-wp-contact-form-label {
+    position: static;
+}
+.fn-wp-contact-form-wrapper.apply-now-form {
+    margin-top: 50px;
+}
+div.wpcf7 input[type="file"] {
+    cursor: pointer;
+    width: 100%;
+    background: #da3c3c;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+#partnerSlider .owl-dots{
+ 
+  left:45%;
+  right:45%;
+}
